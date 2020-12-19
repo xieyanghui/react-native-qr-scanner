@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.description = "some interesting summary. 123123"
 
-  s.license     = { :type => "MIT", :file => "LICENSE" }
+  s.license     = "MIT"
 
   s.homepage    = "https://github.com/shifeng1993/react-native-qr-scanner"
 
